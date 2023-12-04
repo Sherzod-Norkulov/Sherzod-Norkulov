@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherzod</h1>
 <h3 align="center">A System administrator from Uzbekistan</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherzod-norkulov" alt="sherzod-norkulov" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherzod-norkulov&label=Profile%20views&color=0e75b6&style=flat-square" alt="sherzod-norkulov" /> </p>
 
 - 🔭 I’m currently working on **Zabbix High availability**
 
